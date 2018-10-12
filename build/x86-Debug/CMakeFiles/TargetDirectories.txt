@@ -1,0 +1,3 @@
+C:/Users/BEDULGI/Documents/CMakePractice/build/x86-Debug/CMakeFiles/CMakePractice.dir
+C:/Users/BEDULGI/Documents/CMakePractice/build/x86-Debug/CMakeFiles/edit_cache.dir
+C:/Users/BEDULGI/Documents/CMakePractice/build/x86-Debug/CMakeFiles/rebuild_cache.dir

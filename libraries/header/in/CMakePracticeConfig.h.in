@@ -1,0 +1,4 @@
+// The configured options and settings for Project
+// These are declared variables in the CMakeLists.txt
+#define Tutorial_VERSION_MAJOR @CMakePractice_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @CMakePractice_VERSION_MINOR@
