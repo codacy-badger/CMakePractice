@@ -1,3 +1,5 @@
 # ninja log v5
 0	528	561063607	CMakeFiles/CMakePractice.dir/sources/main.cpp.obj	45c701efcd5e46af
 528	982	561063608	CMakePractice.exe	28339a58499cffa
+1	759	561065201	CMakeFiles/CMakePractice.dir/sources/main.cpp.obj	45c701efcd5e46af
+759	1016	561065201	CMakePractice.exe	28339a58499cffa
